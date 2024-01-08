@@ -8,19 +8,17 @@ const UserOnboarded = () => {
       <Image src={Phone} alt="nexus-logo" className="w-full md:w-[40%]" />
       <article className="text-white flex flex-col justify-around md:justify-between my-[50px] p-2">
         <h1 className="text-3xl md:text-5xl font-semibold mb-[20px]">
-          Over 2k different users onboarded 🎉
+          Celebrating Milestones: 2000+ Users Onboarded! 🎉
         </h1>
         <h2 className="text-xl mb-[20px]">
-          More than a platform, we&apos;re a catalyst for a financially
-          empowered and connected Africa
+        Join the growing Nexuspay community. Together, we&apos;re building a more inclusive and efficient financial future for everyone.
         </h2>
         <div className="flex flex-col lg:flex-row">
           <div className="h-auto md:h-[200px] my-4 flex flex-col justify-around">
             <Image src={HeadPhones} alt="nexus-logo" className="my-2" />
-            <h4 className="text-2xl font-semibold mb-2">Financial Inclusion</h4>
+            <h4 className="text-2xl font-semibold mb-2">Driving Financial Inclusion</h4>
             <h5 className="text-base">
-              Microloans and a future loyalty crypto token to support the
-              unbanked{" "}
+            Unlock potential with Nexuspay&apos;s microloans and anticipate our forthcoming loyalty crypto token. We&apos;re committed to supporting the unbanked and underbanked, ensuring everyone has a chance to thrive financially
             </h5>
           </div>
           <div className="h-auto md:h-[200px] my-4 flex flex-col justify-around">
@@ -29,8 +27,7 @@ const UserOnboarded = () => {
               Stability Meets Simplicity
             </h4>
             <h5 className="text-base">
-              We harness the power of stablecoins to protect against inflation
-              and bring financial stability right to your fingertips
+            Experience the strength of stablecoins with Nexuspay. Guard against inflation and embrace financial stability, all through a straightforward and user-friendly platform.
             </h5>
           </div>
         </div>

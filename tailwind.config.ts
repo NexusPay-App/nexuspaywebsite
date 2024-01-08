@@ -8,14 +8,20 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        'poppins' :['Poppins', 'sans-serif']
+       },
       backgroundImage: {
         "hero-bg": "url('/svg/hero-bg.svg')",
         "feature-one": "url('/svg/feature-one.svg')",
         "feature-one-mobile": "url('/svg/feature-one-mobile.svg')",
+        "feature-one-sm": "url('/svg/feature-one-sm.svg')",
         "feature-two": "url('/svg/feature-two.svg')",
         "feature-two-mobile": "url('/svg/feature-two-mobile.svg')",
+        "feature-two-sm": "url('/svg/feature-two-sm.svg')",
         "feature-three": "url('/svg/feature-three.svg')",
         "feature-three-mobile": "url('/svg/feature-three-mobile.svg')",
+        "feature-three-sm": "url('/svg/feature-three-sm.svg')",
         "function":"url('/svg/functionality.svg')",
       },
     },

@@ -12,7 +12,7 @@ import UserOnboarded from "./components/UserOnboarded";
 
 export default function Home() {
   return (
-    <main className="flex bg-[#15191C] flex-col  bg-cover overflow-hidden">
+    <main className="flex bg-[#15191C] flex-col  bg-cover overflow-hidden font-poppins">
       <Navbar />
       <HeroSection />
       {/* <Patners /> */}
