@@ -4,7 +4,7 @@ import { HeadPhones, Phone, Security } from "../svg";
 
 const UserOnboarded = () => {
   return (
-    <div className="flex flex-col md:flex-row md:items-center ">
+    <div className="flex flex-col md:flex-row md:items-center mt-10 p-5 ">
       <Image src={Phone} alt="nexus-logo" className="w-full md:w-[40%]" />
       <article className="text-white flex flex-col justify-around md:justify-between my-[50px] p-2">
         <h1 className="text-3xl md:text-5xl font-semibold mb-[20px]">

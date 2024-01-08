@@ -12,14 +12,14 @@ import UserOnboarded from "./components/UserOnboarded";
 
 export default function Home() {
   return (
-    <main className="flex bg-[#15191C] flex-col  bg-cover overflow-hidden ">
+    <main className="flex bg-[#15191C] flex-col  bg-cover overflow-hidden">
       <Navbar />
       <HeroSection />
-      <Patners />
+      {/* <Patners /> */}
       <Features />
       <JoinSection />
       <UserOnboarded />
-      <Review />
+      {/* <Review /> */}
       <HowitWorks />
       <Footer />
     </main>

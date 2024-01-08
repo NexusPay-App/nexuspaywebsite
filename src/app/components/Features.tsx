@@ -6,7 +6,7 @@ import FeatureCardThree from "./FeatureCardThree";
 const Features = () => {
   return (
     <div className="p-2 h-full">
-      <div className="flex flex-col md:flex-row items-center text-white ">
+      <div className="flex flex-col md:flex-row items-center text-white p-3">
         <h2 className="text-2xl md:text-5xl font-semibold mb-5">
           Pioneering Crypto-Powered Finance in Africa{" "}
         </h2>
