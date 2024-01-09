@@ -44,11 +44,11 @@ const Navbar = () => {
         </div>
 
         <div className="hidden sm:flex items-center">
-          <ul className=" flex flex-col sm:flex-row justify-around text-base md:text-lg text-white w-auto">
+          {/* <ul className=" flex flex-col sm:flex-row justify-around text-base md:text-lg text-white w-auto">
             <li className="mx-2 w-[100%] min-w-[100px] ">Features</li>
             <li className="mx-2 w-[100%] min-w-[120px] ">How it Works</li>
             <li className="mx-2 w-[100%] min-w-[100px] ">Pricing</li>
-          </ul>
+          </ul> */}
           <button className="p-3 border border-white rounded-sm text-white">
             Get Started
           </button>
