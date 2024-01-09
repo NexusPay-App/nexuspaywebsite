@@ -26,7 +26,7 @@ const JoinSection = () => {
               <Star size={32} color="#F59638" weight="fill" />
             </span>
             <h4 className="text-lg font-semibold mb-1">4.8/5</h4>
-            <h5 className="text-base">On App Store</h5>
+            <h5 className="text-base">Top choice</h5>
           </div>
         </article>
       </div>
